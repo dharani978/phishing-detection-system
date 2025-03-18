@@ -11,13 +11,13 @@ Features
 5. Scalable and can be extended with WHOIS, DNS, and webpage content analysis.
 
 Technology Stack
-Programming Language: Python
-Machine Learning Models: Decision Trees, Random Forest, SVM, Neural Networks
-Libraries Used: Scikit-learn, Pandas, NumPy, Matplotlib
-Dataset: Open-source datasets from PhishTank, UCI ML Repository
+1.Programming Language: Python
+2.Machine Learning Models: Decision Trees, Random Forest, SVM, Neural Networks
+3.Libraries Used: Scikit-learn, Pandas, NumPy, Matplotlib
+4.Dataset: Open-source datasets from PhishTank, UCI ML Repository
 
 How It Works?
-Feature Extraction: Collect and preprocess URL-based features.
-Training Machine Learning Models: Train different classifiers to detect phishing websites.
-Hybrid Model Integration: Combine multiple models to improve detection accuracy.
-Real-time Prediction: Use trained models to classify new URLs.
+1.Feature Extraction: Collect and preprocess URL-based features.
+2.Training Machine Learning Models: Train different classifiers to detect phishing websites.
+3.Hybrid Model Integration: Combine multiple models to improve detection accuracy.
+4.Real-time Prediction: Use trained models to classify new URLs.
